@@ -14,7 +14,7 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
 # #1 Princípios de desenvolvimentos de jogos
 
-  - [x] Mercado e carrei em desenvolvimentos de jogos
+  - [x] Mercado e carreira em desenvolvimentos de jogos
 
   - [x] Introdução ao desenvolvimento e criação de jogos
 
@@ -61,7 +61,7 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
 # #4 Aprimorando sua lógica de programação com desafios de códigos básicos
 
-  - [ ] Desafios de código: aperfeicoe sua lógia e pensamento computacional
+  - [ ] Desafios de código: aperfeiçoe sua lógica e pensamento computacional
 
   - [ ] Desafio: A jornada heróica
 
@@ -101,7 +101,7 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
  <br/>
 
-# #7 Consolidando conceitos com desafios de código em JavaScript
+# #7 Construindo o seu portfólio de jogos com JavaScript
 
   - [ ] Desafio de projeto: Criando um jogo do Detona Ralph com JavaScript
 
