@@ -3,7 +3,7 @@ Este repositório é destinado ao conteúdo do
 
 
 
-<h1><img height="200vh" src="imagens/logo.pngp">
+<h1><img height="200vh" src="imagens/logo.png">
 
 Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
