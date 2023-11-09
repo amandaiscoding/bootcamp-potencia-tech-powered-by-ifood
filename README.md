@@ -45,9 +45,9 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
 # #3 Deixando suas páginas web dinâmicas com JavaScript
 
-  - [ ] Primeiros passos com JavaScript
+  - [x] Primeiros passos com JavaScript
 
-  - [ ] Conhecendo funções JavaScript
+  - [x] Conhecendo funções JavaScript
 
   - [ ] Criando objetos e classes em JavaScript
 
