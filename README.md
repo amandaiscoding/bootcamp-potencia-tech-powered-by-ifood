@@ -49,9 +49,9 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
   - [x] Conhecendo funções JavaScript
 
-  - [ ] Criando objetos e classes em JavaScript
+  - [x] Criando objetos e classes em JavaScript
 
-  - [ ] Arrays e estruturas de repetição em JavaScript
+  - [x] Arrays e estruturas de repetição em JavaScript
 
   - [ ] Importação e exportação com JavaScript
 
