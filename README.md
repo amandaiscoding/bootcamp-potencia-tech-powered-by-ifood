@@ -53,7 +53,7 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
   - [x] Arrays e estruturas de repetição em JavaScript
 
-  - [ ] Importação e exportação com JavaScript
+  - [x] Importação e exportação com JavaScript
 
   - [ ] Criando um projeto com HTML/CSS para listagem de Pokemón
 
