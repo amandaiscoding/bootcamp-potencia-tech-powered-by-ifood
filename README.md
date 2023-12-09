@@ -42,6 +42,7 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
   - [x] Criando sua primeira landing page com HTML e CSS [(Clique aqui para acessar o código)](https://github.com/amandaiscoding/bootcamp-potencia-tech-powered-by-ifood/tree/main/landing-page)
 
   <br/>
+ 
 
 # #3 Deixando suas páginas web dinâmicas com JavaScript
 
@@ -55,7 +56,7 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
   - [x] Importação e exportação com JavaScript
 
-  - [ ] Criando um projeto com HTML/CSS para listagem de Pokemón
+  - [x] Criando um projeto com HTML/CSS para listagem de Pokemón [(Clique aqui para acessar o código)](https://github.com/amandaiscoding/bootcamp-potencia-tech-powered-by-ifood/tree/main/listagem-pokemons)
 
   <br/>
 
