@@ -62,17 +62,17 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
 # #4 Aprimorando sua lógica de programação com desafios de códigos básicos
 
-  - [ ] Desafios de código: aperfeiçoe sua lógica e pensamento computacional
+  - [x] Desafios de código: aperfeiçoe sua lógica e pensamento computacional
 
-  - [ ] Desafio: A jornada heróica
+  - [x] Desafio: A jornada heróica
 
-  - [ ] Desafio: Pontuando experiências - XP
+  - [x] Desafio: Pontuando experiências - XP
 
-  - [ ] Desafio: Capturando Pokémons
+  - [x] Desafio: Capturando Pokémons
   
-  - [ ] Desafio: Coletando tesouros
+  - [x] Desafio: Coletando tesouros
 
-  - [ ] Desafio: Gerando biomas em mundo de bloco
+  - [x] Desafio: Gerando biomas em mundo de bloco
 
  <br/>
 
