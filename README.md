@@ -82,29 +82,29 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
   - [x] Orientação a protótipo com JavaScript
 
-  - [ ] Funções e manipulações de listas com JavaScript
+  - [x] Funções e manipulações de listas com JavaScript
 
-  - [ ] Promises e assincronismo com JavaScript
+  - [x] Promises e assincronismo com JavaScript
   
  <br/>
 
 # #6 Consolidando conceitos com desafios de código em JavaScript
 
-  - [ ] Desafio: Combatendo monstros!
+  - [x] Desafio: Combatendo monstros!
 
-  - [ ] Desafio: Academia de magia
+  - [x] Desafio: Academia de magia
 
-  - [ ] Desafio: Tomadas de decisão
+  - [x] Desafio: Tomadas de decisão
 
-  - [ ] Desafio: Combinando nomes de Pokémons
+  - [x] Desafio: Combinando nomes de Pokémons
 
-  - [ ] Desafio: Gerenciando itens mágicos
+  - [x] Desafio: Gerenciando itens mágicos
 
  <br/>
 
 # #7 Construindo o seu portfólio de jogos com JavaScript
 
-  - [ ] Desafio de projeto: Criando um jogo do Detona Ralph com JavaScript
+  - [x] Desafio de projeto: Criando um jogo do Detona Ralph com JavaScript
 
   - [ ] Desafio de projeto: Criando um jogo da memória com emojis utilizando JavaScript
 
