@@ -78,9 +78,9 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
 # #5 Avançando no JavaScript com assincronismo
 
-  - [ ] Aprendendo variáveis, escopo e tipos de dados no JavaScript
+  - [x] Aprendendo variáveis, escopo e tipos de dados no JavaScript
 
-  - [ ] Orientação a protótipo com JavaScript
+  - [x] Orientação a protótipo com JavaScript
 
   - [ ] Funções e manipulações de listas com JavaScript
 
