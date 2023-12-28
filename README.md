@@ -106,9 +106,9 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
   - [x] Desafio de projeto: Criando um jogo do Detona Ralph com JavaScript
 
-  - [ ] Desafio de projeto: Criando um jogo da memória com emojis utilizando JavaScript
+  - [x] Desafio de projeto: Criando um jogo da memória com emojis utilizando JavaScript
 
-  - [ ] Desafio de projeto: Construindo um simulador de piano com JavaScript
+  - [x] Desafio de projeto: Construindo um simulador de piano com JavaScript
 
   - [ ] Desafio de projeto: Criando um jogo de cartas do Yu-Gi-Oh! com JavaScript
 
