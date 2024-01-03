@@ -7,7 +7,7 @@ Este repositório é destinado ao conteúdo do
 
 Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
-<h3> Andamento do Processo:</h3>
+<h3> Andamento do processo:</h3>
 
 
 </div>
@@ -104,13 +104,12 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
 # #7 Construindo o seu portfólio de jogos com JavaScript
 
-  - [x] Desafio de projeto: Criando um jogo do Detona Ralph com JavaScript
+  - [x] Desafio de projeto: Criando um jogo do Detona Ralph com JavaScript [(Clique aqui para acessar o código)](https://github.com/amandaiscoding/bootcamp-potencia-tech-powered-by-ifood/tree/main/detona-ralph)
 
-  - [x] Desafio de projeto: Criando um jogo da memória com emojis utilizando JavaScript
+  - [x] Desafio de projeto: Criando um jogo da memória com emojis utilizando JavaScript [(Clique aqui para acessar o código)](https://github.com/amandaiscoding/bootcamp-potencia-tech-powered-by-ifood/tree/main/jogo-da-memoria)
 
-  - [x] Desafio de projeto: Construindo um simulador de piano com JavaScript
+  - [x] Desafio de projeto: Construindo um simulador de piano com JavaScript [(Clique aqui para acessar o código)](https://github.com/amandaiscoding/bootcamp-potencia-tech-powered-by-ifood/tree/main/piano)
 
   - [ ] Desafio de projeto: Criando um jogo de cartas do Yu-Gi-Oh! com JavaScript
-
 
  <br/>
