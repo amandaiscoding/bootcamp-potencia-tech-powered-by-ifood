@@ -113,3 +113,14 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
   - [x] Desafio de projeto: Criando um jogo de cartas do Yu-Gi-Oh! com JavaScript [(Clique aqui para acessar o código)](https://github.com/amandaiscoding/bootcamp-potencia-tech-powered-by-ifood/tree/main/yu-gi-oh)
 
  <br/>
+
+<div align="center">
+
+# Bootcamp concluído!
+
+<img src="./imagens/certificado.png">
+<br>
+  <img height="300vh" src="./imagens/roblox-happy.gif"><br><a href="www.linkedin.com/in/amandaiscoding"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true"></a>
+  <a href = "amandahaggerty6@gmail.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true"></a><br>
+
+</div>
