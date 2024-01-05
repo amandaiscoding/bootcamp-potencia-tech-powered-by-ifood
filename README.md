@@ -110,6 +110,6 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
   - [x] Desafio de projeto: Construindo um simulador de piano com JavaScript [(Clique aqui para acessar o código)](https://github.com/amandaiscoding/bootcamp-potencia-tech-powered-by-ifood/tree/main/piano)
 
-  - [ ] Desafio de projeto: Criando um jogo de cartas do Yu-Gi-Oh! com JavaScript
+  - [x] Desafio de projeto: Criando um jogo de cartas do Yu-Gi-Oh! com JavaScript [(Clique aqui para acessar o código)](https://github.com/amandaiscoding/bootcamp-potencia-tech-powered-by-ifood/tree/main/yu-gi-oh)
 
  <br/>
