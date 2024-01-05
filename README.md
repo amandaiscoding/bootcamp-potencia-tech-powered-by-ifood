@@ -120,7 +120,9 @@ Bootcamp Potência Tech powered by iFood <br/> Desenvolvimento de Jogos</h1>
 
 <img src="./imagens/certificado.png">
 <br>
-  <img height="300vh" src="./imagens/roblox-happy.gif"><br><a href="www.linkedin.com/in/amandaiscoding"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true"></a>
+  <img height="300vh" src="./imagens/roblox-happy.gif">
+  <br>
+  <a href="https://www.linkedin.com/in/amandaiscoding"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true"></a>
   <a href = "amandahaggerty6@gmail.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true"></a><br>
 
 </div>
